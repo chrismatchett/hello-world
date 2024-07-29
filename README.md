@@ -1,3 +1,3 @@
 # hello-world
 
-![Hello World](panda.jpg "Title")
+![Hello World](panda.jpg "Hello World")
